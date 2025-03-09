@@ -8,8 +8,8 @@ Matricula: 1599090
 
 ## Tela de inspeção com navegador
 
-Imagem_1
+![](Imagem_Navegador-1.JPG)
 
 ## Tela de projeto no Replit
 
-Imagem_2
+![](Hello_Word-1.PNG)

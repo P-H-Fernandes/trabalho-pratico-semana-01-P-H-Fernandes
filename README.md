@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Henrique Fernandes Batista
+Matricula: 1599090
 
 ## Tela de inspeção com navegador
 
+Imagem_1
 
 ## Tela de projeto no Replit
 
+Imagem_2
